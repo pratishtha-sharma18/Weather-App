@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="weather_style.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="mainHeading">Weather App</h1>
+        <div class="contentBox">
+            <div class="details">
+                <h4 id="subHeading">Today's Weather</h4>
+                <div class="container">
+                    <input name="city" placeholder="Enter City" id="enter">
+                </div>
+                <p id="Temp">Temperature</p>
+                <p id="cloudCover">Cloud Cover</p>
+                <p id="humidity">Humidity</p>
+                <button id="btn">Check Weather</button>
+            </div>
+            <div class="advice hidden">
+                <h4 id="nxtSubHead">Advices</h4>
+                <div class="pt1 secd">Point 1</div>
+                <div class="pt2 secd"> Point2</div>
+            </div>
+        </div>
+    </header>
+    <script src="weather_logic.js"></script>
+</body>
+
+</html>
