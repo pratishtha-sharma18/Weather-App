@@ -5,4 +5,4 @@ This project is responsible to show the temperature, cloud cover and humidity of
 <br>
 AUTHOR : Pratishtha Sharma 
 <br>
-<img width="550" height="300" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/0c968e44-1d48-490b-af75-4f4285399ab0" />
+<img width="560" height="300" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/0c968e44-1d48-490b-af75-4f4285399ab0" />
